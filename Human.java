@@ -2,7 +2,6 @@ public class Human {
     public String name;
     public String town;
     public int yearOfBirth;
-
     public String jobTitle;
 
     public Human(String name, String town, int yearOfBirth, String jobTitle) {
